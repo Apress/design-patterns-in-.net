@@ -1,0 +1,42 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Dropbox\\Projects\\Demos\\DotNetDesignPatternDemos\\Functional\\FunctionalDesignPatternDemos\\FunctionalDesignPatternDemos.fsproj",
+    "projectName": "FunctionalDesignPatternDemos",
+    "projectPath": "C:\\Dropbox\\Projects\\Demos\\DotNetDesignPatternDemos\\Functional\\FunctionalDesignPatternDemos\\FunctionalDesignPatternDemos.fsproj",
+    "outputPath": "C:\\Dropbox\\Projects\\Demos\\DotNetDesignPatternDemos\\Functional\\FunctionalDesignPatternDemos\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "FSharp.Core": {
+          "target": "Package",
+          "version": "[4.3.4, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

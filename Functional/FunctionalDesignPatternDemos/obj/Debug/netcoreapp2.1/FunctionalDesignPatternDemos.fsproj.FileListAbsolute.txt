@@ -1,0 +1,8 @@
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Functional\FunctionalDesignPatternDemos\bin\Debug\netcoreapp2.1\FunctionalDesignPatternDemos.deps.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Functional\FunctionalDesignPatternDemos\bin\Debug\netcoreapp2.1\FunctionalDesignPatternDemos.runtimeconfig.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Functional\FunctionalDesignPatternDemos\bin\Debug\netcoreapp2.1\FunctionalDesignPatternDemos.runtimeconfig.dev.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Functional\FunctionalDesignPatternDemos\bin\Debug\netcoreapp2.1\FunctionalDesignPatternDemos.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Functional\FunctionalDesignPatternDemos\bin\Debug\netcoreapp2.1\FunctionalDesignPatternDemos.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Functional\FunctionalDesignPatternDemos\obj\Debug\netcoreapp2.1\FunctionalDesignPatternDemos.fsprojAssemblyReference.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Functional\FunctionalDesignPatternDemos\obj\Debug\netcoreapp2.1\FunctionalDesignPatternDemos.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Functional\FunctionalDesignPatternDemos\obj\Debug\netcoreapp2.1\FunctionalDesignPatternDemos.pdb
